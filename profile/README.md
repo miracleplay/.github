@@ -4,7 +4,7 @@
 ## MIRACLE PLAY aims to grow into the world's most fair and transparent.
  ### Blockchain based Esports Online game Platform. MIRACLE PLAY delivers entertainment and value in its own unique ways.
 
-# Our Vision
+## Our Vision
 
 #### “As the world's fairest and most transparent Blockchain-based Esports Online Game Platform, we grow to deliver fun and value in our own unique ways through Miracle Play.”
  
@@ -20,3 +20,5 @@
 * [TELEGRAM] https://t.me/miracleplay_eng
 * [MEDIUM] https://medium.com/@miracleplay
 * [TWITTER] https://twitter.com/miracleplaygg
+
+![Miracleplay footer](https://miracleplay.gg/static/media/blueImg.a713aa86553039682d71.jpeg)
